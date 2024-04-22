@@ -6,7 +6,7 @@ interface appProps {
 
 const App: FC<appProps> = (props) => {
   return(
-    <div>Your first meta react app - 1 {props.name}</div>
+    <div>Your first meta react app - 10 {props.name}</div>
   )
 }
 
